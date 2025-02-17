@@ -1,0 +1,15 @@
+{
+    "name": "revolut.andus",
+    "description": "A simple (unofficial) webapp for Revolut",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Revolut",
+    "hooks": {
+        "revolut": {
+            "apparmor": "revolut.apparmor",
+            "desktop":  "revolut.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Andus <support@andus.dev>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
