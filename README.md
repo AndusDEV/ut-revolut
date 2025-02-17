@@ -4,6 +4,10 @@ A simple (unofficial) webapp for Revolut
 
 [![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/revolut.andus)
 
+## Revolut logo
+
+The Revolut logo is a trademark of Revolut Ltd. and is used here for identification purposes only. I do not claim any ownership or rights to the Revolut logo.
+
 ## License
 
 Copyright (C) 2025  Andus
